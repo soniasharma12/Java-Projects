@@ -1,2 +1,2 @@
-# Java_Projects
-This repository contains all projects I've complete during both ICS3U0 &amp; ICS4U0 courses!
+# Java Projects 2021-2022
+This repository contains all projects I've complete during secondary school!
